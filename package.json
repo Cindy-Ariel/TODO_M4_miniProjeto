@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "todo-m4-mini-projeto",
+  "version": "1.0.0",
+  "description": "mini projeto m4",
+  "main": "servidor.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/servidor.js",
+    "dev": "nodemon ./src/servidor.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
